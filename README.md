@@ -2,7 +2,7 @@
 
 <div align="right">
 
-[![Get started with GitHub Actions](https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/ai-resume-analyzer/get-started-with-github-actions.yml?branch=main)](https://github.com/SagarBiswas-MultiHAT/ai-resume-analyzer/actions/workflows/get-started-with-github-actions.yml)
+[![Get started with GitHub Actions](https://img.shields.io/github/actions/workflow/status/SagarBiswas-MultiHAT/Ai-Resume-Analyzer/get-started-with-github-actions.yml?branch=main)](https://github.com/SagarBiswas-MultiHAT/Ai-Resume-Analyzer/actions/workflows/get-started-with-github-actions.yml)
 &nbsp;
 [![License](https://img.shields.io/github/license/SagarBiswas-MultiHAT/resume-analyzer-builder)](LICENSE)
 &nbsp;
